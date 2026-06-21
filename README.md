@@ -1,6 +1,6 @@
 # Estudos QA
 
-Repositório com documentação completa sobre **Qualidade de Software e Testes**, cobrindo desde conceitos fundamentais até técnicas avançadas de teste e metodologias ágeis.
+Repositório com documentação completa sobre **Qualidade de Software e Testes**, cobrindo desde conceitos fundamentais até técnicas avançadas de teste e metodologias ágeis. 
 
 ----
 
